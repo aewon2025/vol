@@ -21,22 +21,9 @@ Account	|GOOGLE_OAUTH_CLIENT_ID |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|GOOGLE_D
 
 Below represents the content of a csv file where user is authenticating using OAuth: 
 
-<small>
-
-| Header 1 | Header 2 | Header 3 |
-| :--- | :--- | :--- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-
-</small>
-
 | <sub>ACCOUNT</sub> | <sub>GOOGLE_OAUTH_CLIENT_ID</sub> | <sub>DRIVE_CLIENT_EMAIL</sub> | <sub>DRIVE_PRIVATE_KEY</sub> | <sub>GOOGLE_DRIVE_FOLDER_ID</sub> | <sub>GOOGLE_SHEET_ID</sub> | <sub>SHEET_NAME</sub> | <sub>Is_Current</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <sub>private</sub> | <sub>xxx.apps.googleus.com</sub> | <sub></sub> | <sub></sub> | <sub>4_ioerjSFFDFGDFGFddL2</sub> | <sub>6B-kdkdliDd334a</sub> | <sub>Sheet1</sub> | <sub>1</sub> |
-| <sub>team</sub> | <sub>Row 2, Col 2</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> |
-
-
-<small>account</small>	|google_oauth_client_id |drive_client_email	|drive_private_key	|gogle_drive_folder_id	|google_sheet_id |sheet_name |is_current |  
-private	|xxx.apps.googleus.com	|                   |                   |4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334a |	Sheet1	     |1           |  
-team    |                       |                   |                   |                       |                  |              |0           
+| <sub>team</sub> | <sub>Row 2, Col 2</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub>0</sub> |
+         
 
