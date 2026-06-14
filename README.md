@@ -12,7 +12,7 @@ Note  you may have upto two accounts' credentials saved on the app (Private, Tea
 
         -  drive client email, drive private key, google folder id, google sheet id, sheet tab name
 
-Instead of entering the credentials manually in the Private/Team Config Section u may place 1 or both credential in a csv file.  
+Instead of entering the credentials manually in the Private/Team Config Section u may place 1 or both credential in a csv file. (Comma separated) 
 
 ##  Example  
 
