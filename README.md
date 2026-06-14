@@ -21,6 +21,6 @@ Below represents the content of a csv file where user is authenticating using OA
 | <sub>ACCOUNT</sub> | <sub>GOOGLE_OAUTH_CLIENT_ID</sub> | <sub>DRIVE_CLIENT_EMAIL</sub> | <sub>DRIVE_PRIVATE_KEY</sub> | <sub>GOOGLE_DRIVE_FOLDER_ID</sub> | <sub>GOOGLE_SHEET_ID</sub> | <sub>SHEET_NAME</sub> | <sub>Is_Current</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <sub>private</sub> | <sub>xxx.apps.googleus.com</sub> | <sub></sub> | <sub></sub> | <sub>4_ioerjSFFDFGDFGFddL2</sub> | <sub>6B-kdkdliDd334a</sub> | <sub>Sheet1</sub> | <sub>1</sub> |
-| <sub>team</sub> | <sub>Row 2, Col 2</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub>0</sub> |
+| <sub>team</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub>0</sub> |
          
 
