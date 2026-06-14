@@ -3,12 +3,12 @@
 
 ## QUICK START
 - Once app is installed: the very first time you hit (START) in the app, the app will request permission to use the camera
-- App by default is set to *Local Mode* thus you should be able to get images and save them into your device. At end of  each scan, the app will ask you where to store them. 
-- ***Alternatively:*** A tech savvy friend can help you with setting up the app to save images remotely. To store images remotely to Google Drive, Section 3 (Acount Configuration) in the settings will need to be filled out.
+- App by default is set to *Local Mode* thus images will be directed to be save locally. At the end of  each scan, the app will ask you where to store/share them. 
+- ***Alternatively:*** A tech savvy friend can help you with setting up the app to save images remotely. To store images to Google Drive, Section 3 (Acount Configuration) in the settings will need to be filled out.
 
 - **Tip**:
   - place the account credentials in a csv file and upload them into the app.. See next section.
-  - Switch Storage Mode from Local to Remote in other to view the Private / Team account configuration section
+  - Switch Storage Mode from Local to Remote in order to view the Private / Team account configuration section
   
 ## CREDENTIALS: UPLOADING CSV
 ==========================
