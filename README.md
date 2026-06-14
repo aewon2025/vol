@@ -17,18 +17,14 @@ Instead of entering the credentials manually in the Private/Team Config Section 
 ## Headings on the csv file
 Account	|GOOGLE_OAUTH_CLIENT_ID |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|GOOGLE_DRIVE_FOLDER_ID	|GOOGLE_SHEET_ID	 |SHEET_NAME	|Is_Current  
 
+###  Example  
 
+Below represents the content of a csv file where user is authenticating using OAuth:  
 
-The example below represents the content of a csv file where user is authenticating using OAuth:
 account	|google_oauth_client_id |drive_client_email	|drive_private_key	|gogle_drive_folder_id	|google_sheet_id |sheet_name |is_current |  
 
 private	|xxx.apps.googleus.com	|                   |                   |4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334a |	Sheet1	     |1           |  
 
 team    |                       |                   |                   |                       |                  |              |0           |
-
-Account	|GOOGLE_OAUTH_CLIENT_ID	        |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|GOOGLE_DRIVE_FOLDER_ID	|GOOGLE_SHEET_ID	 |SHEET_NAME	|Is_Current  |
-private	|xxxxxxxxx.apps.googleus...com	|                   |                   |	4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334jja |	Sheet1	  |1           |
-team    |                               |                   |                   |                       |                  |            |0           |
-
 
 
