@@ -1,7 +1,7 @@
 # APP: SCAN_VAULT
  - link: <https://bcs-vault.vercel.app>
  
- UPLOADING CSV CREDENTIALS
+ CREDENTIALS: UPLOADING CSV
 ==========================
 
 
