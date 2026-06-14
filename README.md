@@ -3,7 +3,7 @@
  
  CREDENTIALS: UPLOADING CSV
 ==========================
-*  for more detailed information on authentication, csv and app usage, please see the "guide" found in the app settings section
+(for a more detailed information on authentication, csv and app usage, please see the "guide" found in the app's settings)
 
 Note  you may have upto two accounts' credentials saved on the app (Private, Team), but only one active at a time.  
 
