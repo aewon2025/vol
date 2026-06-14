@@ -1,7 +1,7 @@
 # APP: SCAN_VAULT
  - link: <https://bcs-vault.vercel.app>
 
-# QUICK START
+## QUICK START
 - Once app is installed: the very first time you hit (START) in the app, the app will request permission to use the camera
 - App by default is set to *Local Mode* thus you should be able to get images and save them into your device. At end of  each scan, the app will ask you where to store them. 
 - ***Alternatively:*** A tech savvy friend can help you with setting up the app to save images remotely. To store images remotely to Google Drive, Section 3 (Acount Configuration) in the settings will need to be filled out.
@@ -10,7 +10,7 @@
   - place the account credentials in a csv file and upload them into the app.. See next section.
   - Switch Storage Mode from Local to Remote in other to view the Private / Team account configuration section
   
- CREDENTIALS: UPLOADING CSV
+## CREDENTIALS: UPLOADING CSV
 ==========================
 > for more details on authentication, csv and app usage, please see the "guide" found in the app's settings)
 
