@@ -1,20 +1,20 @@
-UPLOADING CSV CREDENTIALS
+ UPLOADING CSV CREDENTIALS
 ==========================
 
 
 Note  you may have upto two accounts' credentials saved on the app (Private, Team), but only one active at a time.  
 
--  If user is authenticating using OAuth. * Info required:  
+-  If user is authenticating using OAuth. *Info required*:  
 
-        -  google oauth client id, the google folder id, google sheet id and sheet tab name  
+        -  google oauth client id, the google folder id, google sheet id, sheet tab name  
 
--  If user is authenticating using service account. * Info required:  
+-  If user is authenticating using service account. *Info required*:  
 
-        -  the drive client email, drive private key, google folder id, google sheet id, and sheet tab name
+        -  the drive client email, drive private key, google folder id, google sheet id, sheet tab name
 
-*Instead of entering the credentials manually on the Private/Team account u may add 1 or both cred to a csv file. Below is the template to follow.  
+Instead of entering the credentials manually on the Private/Team Zone account u may place 1 or both credential in a csv file.  
 
-The example below represents the content of a csv file where user is authenticating using OAuth:
+The example below represents the content of a csv file where user is authenticating using OAuth:#
 
 Account	|GOOGLE_OAUTH_CLIENT_ID	        |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|GOOGLE_DRIVE_FOLDER_ID	|GOOGLE_SHEET_ID	 |SHEET_NAME	|Is_Current  |
 private	|xxxxxxxxx.apps.googleus...com	|                   |                   |	4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334jja |	Sheet1	  |1           |
