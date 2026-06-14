@@ -30,6 +30,12 @@ Below represents the content of a csv file where user is authenticating using OA
 
 </small>
 
+| <sub>ACCOUNT</sub> | <sub>GOOGLE_OAUTH_CLIENT_ID</sub> | <sub>Header 3</sub> |
+| :--- | :--- | :--- |
+| <sub>Row 1, Col 1</sub> | <sub>Row 1, Col 2</sub> | <sub>Row 1, Col 3</sub> |
+| <sub>Row 2, Col 1</sub> | <sub>Row 2, Col 2</sub> | <sub>Row 2, Col 3</sub> |
+
+
 <small>account</small>	|google_oauth_client_id |drive_client_email	|drive_private_key	|gogle_drive_folder_id	|google_sheet_id |sheet_name |is_current |  
 private	|xxx.apps.googleus.com	|                   |                   |4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334a |	Sheet1	     |1           |  
 team    |                       |                   |                   |                       |                  |              |0           
