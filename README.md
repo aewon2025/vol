@@ -32,7 +32,7 @@ Below represents the content of a csv file where user is authenticating using OA
 
 | <sub>account</sub> | <sub>google_oauth_client_id</sub> | <sub>DRIVE_CLIENT_EMAIL</sub> | <sub>DRIVE_PRIVATE_KEY</sub> | <sub>drive_drive_folder_id</sub> | <sub>google_sheet_id</sub> | <sub>sheet_name</sub> | <sub>is_current</sub> | <sub>web_origin</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <sub>private</sub> | <sub>xxx.apps.googleus.com</sub> | <sub></sub> | <sub></sub> | <sub>4_ioerjSFFDFGDFGFddL2</sub> | <sub>6B-kdkdliDd334a</sub> | <sub>Sheet1</sub> | <sub>1</sub> |<sub>https://bcs-vault.vercel.app</sub> |
+| <sub>private</sub> | <sub>xxx.apps.googleus.com</sub> | <sub></sub> | <sub></sub> | <sub>4_ioerjSFFDFGDFGFddL2</sub> | <sub>6B-kdkDd334a</sub> | <sub>Sheet1</sub> | <sub>1</sub> |<sub>https://bcs-vault.vercel.app</sub> |
 | <sub>team</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub>0</sub> | <sub>https://bcs-vault.vercel.app</sub> |
          
 
