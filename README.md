@@ -20,9 +20,5 @@ Account	|GOOGLE_OAUTH_CLIENT_ID	        |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|
 private	|xxxxxxxxx.apps.googleus...com	|                   |                   |	4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334jja |	Sheet1	  |1           |
 team    |                               |                   |                   |                       |                  |            |0           |
 
-The example below represents the content of a csv file where user is authenticating using OAuth:
 
-Account	|GOOGLE_OAUTH_CLIENT_ID	        |DRIVE_CLIENT_EMAIL	|DRIVE_PRIVATE_KEY	|GOOGLE_DRIVE_FOLDER_ID	|GOOGLE_SHEET_ID	 |SHEET_NAME	|Is_Current  |
-private	|xxxxxxxxx.apps.googleus...com	|                   |                   |	4_ioerjSFFDFGDFGFddL2	|6B-kdkdliDd334jja |	Sheet1	  |1           |
-team    |                               |                   |                   |                       |                  |            |0           |
 
