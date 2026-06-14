@@ -18,11 +18,11 @@ Note  you may have upto two accounts' credentials saved on the app (Private, Tea
 
 -  If user is authenticating using OAuth. *Info required*:  
 
-        -  google_oauth_client_id, google drive_drive_folder_id, google_sheet_id, sheet_name  
+        -  google_oauth_client_id, google_drive_folder_id, google_sheet_id, sheet_name  
 
 -  If user is authenticating using Service Account. *Info required*:  
 
-        -  drive_client_email, drive_private_key, google, drive_drive_folder_id, google_sheet_id, sheet_name 
+        -  drive_client_email, drive_private_key, google_drive_folder_id, google_sheet_id, sheet_name 
 
 Instead of entering the credentials manually in the Private/Team Config Section u may place 1 or both credential in a csv file. (Comma separated) 
 
@@ -30,7 +30,7 @@ Instead of entering the credentials manually in the Private/Team Config Section 
 
 Below represents the content of a csv file where user is authenticating using OAuth: 
 
-| <sub>account</sub> | <sub>google_oauth_client_id</sub> | <sub>drive_client_email</sub> | <sub>drive_private_key</sub> | <sub>drive_drive_folder_id</sub> | <sub>google_sheet_id</sub> | <sub>sheet_name</sub> | <sub>is_current</sub> | <sub>web_origin</sub> |
+| <sub>account</sub> | <sub>google_oauth_client_id</sub> | <sub>drive_client_email</sub> | <sub>drive_private_key</sub> | <sub>google_drive_folder_id</sub> | <sub>google_sheet_id</sub> | <sub>sheet_name</sub> | <sub>is_current</sub> | <sub>web_origin</sub> |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | <sub>private</sub> | <sub>xxx.apps.googleus.com</sub> | <sub></sub> | <sub></sub> | <sub>4_ioerjSFFDFGDFGFddL2</sub> | <sub>6B-kdkDd334a</sub> | <sub>Sheet1</sub> | <sub>1</sub> |<sub>https://bcs-vault.vercel.app/callback</sub> |
 | <sub>team</sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub></sub> | <sub>Sheet1</sub> | <sub>0</sub> | <sub>https://bcs-vault.vercel.app/callback</sub> |
