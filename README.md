@@ -30,7 +30,7 @@ Below represents the content of a csv file where user is authenticating using OA
 
 </small>
 
-| <sub>ACCOUNT</sub> | <sub>GOOGLE_OAUTH_CLIENT_ID</sub> | <sub>Header 3</sub> |
+| <sub>ACCOUNT</sub> | <sub>GOOGLE_OAUTH_CLIENT_ID</sub> | <sub></sub> | <sub></sub> |
 | :--- | :--- | :--- |
 | <sub>Row 1, Col 1</sub> | <sub>Row 1, Col 2</sub> | <sub>Row 1, Col 3</sub> |
 | <sub>Row 2, Col 1</sub> | <sub>Row 2, Col 2</sub> | <sub>Row 2, Col 3</sub> |
