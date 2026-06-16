@@ -1,5 +1,6 @@
 # APP: SCAN_VAULT
- - link: <https://bcs-vault.vercel.app>
+ - online: <https://bcs-vault.vercel.app>
+ - code: <https://github.com/aewon2025/scan-vault>
 
 ## QUICK START
 - Once app is installed: the very first time you hit (START) in the app, the app will request permission to use the camera
